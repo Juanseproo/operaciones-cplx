@@ -1,4 +1,4 @@
-import OperacionesVectorescplx as lc
+import OperacionesVectorescplxACTUALIZADO as lc
 import unittest
 import numpy as np
 class TestCplxOperatins(unittest.TestCase):
