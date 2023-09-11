@@ -74,6 +74,34 @@ Adjunta (daga) de una matriz/vector
 
 Producto de dos matrices (de tamaños compatibles)
 
+### `test_Producto_tensor()`
+
+Algoritmo producto tensor
+
+### `test_accion_de_una_matriz()`
+
+Función para calcular la "acción" de una matriz sobre un vector
+
+### `test_Producto_int_2_vectores()`
+
+Producto interno de dos vectores. (de tamaños compatibles)
+
+### `test_Norma_vector()`
+
+Norma de un vector (de tamaños compatibles)
+
+### `test_dist_2_vect()`
+
+Distancia entre dos vectores
+
+### `test_matriz_unaria()`
+
+Revisar si una matriz es matriz_unaria
+
+### `test_matriz_hermitiana()`
+
+Revisar si una matriz es hermitiana
+
 Cada método de prueba contiene afirmaciones para comparar la salida real de las funciones probadas con los resultados esperados. Si las afirmaciones pasan, la prueba es exitosa; de lo contrario, falla.
 
 ### Licencia
